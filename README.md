@@ -4,7 +4,7 @@
 To find all the states in India
 
 ## How it Works
-You have to enter the states of india in the small dialog box and when you click "OK" it will show the place of the state in india map.
+You have to enter the state's name of india in the small dialog box and when you click "OK" it will show the place of the state in india map.
 
 ## Screenshots
 
