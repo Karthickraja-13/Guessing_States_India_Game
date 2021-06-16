@@ -1,4 +1,4 @@
-# states-of-india
+# Guess the States-of-India
 
 ## Goal
 To find all the states in India
