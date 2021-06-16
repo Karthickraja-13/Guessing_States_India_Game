@@ -8,6 +8,10 @@ You have to enter the state's name of india in the small dialog box and when you
 
 ## Screenshots
 
+## Start Screen
+
 ![Start Screen](https://raw.githubusercontent.com/Karthickraja-13/states-of-india/main/Start.JPG)
 
+
+## After enter the states name
 ![Play Screen](https://raw.githubusercontent.com/Karthickraja-13/states-of-india/main/states%20name.JPG)
